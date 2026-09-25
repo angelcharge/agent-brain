@@ -36,11 +36,11 @@ Valdes pilnvaru termiņš saskaņā ar statūtiem: 3 gadi.
 
 | Valdes loceklis | Dzīvoklis | Pārstāvības tiesības |
 |---|---|---|
-| Mārtiņš Engelharts (iepriekš Kandevics) | 7 | Kopīgi ar vismaz 1 citu valdes locekli |
+| Mārtiņš Engelharts | 7 | Kopīgi ar vismaz 1 citu valdes locekli |
 | Vladimirs Voskoboiņikovs | 4 | Kopīgi ar vismaz 1 citu valdes locekli |
 | Laura Boltāne | 10 | Kopīgi ar vismaz 1 citu valdes locekli |
 
-Valdes vēsture: 2019 — Kristīne Bērziņa, Mārtiņš Kandevics (Engelharts), Vladimirs Voskoboiņikovs; 07.06.2022. Kristīnes Bērziņas vietā ievēlēta Laura Boltāne (amatā kopš 23.08.2022.); pārvēlēta 16.04.2024. un 31.03.2026.
+Valdes vēsture: 2019 — Kristīne Bērziņa, Mārtiņš Engelharts, Vladimirs Voskoboiņikovs; 07.06.2022. Kristīnes Bērziņas vietā ievēlēta Laura Boltāne (amatā kopš 23.08.2022.); pārvēlēta 16.04.2024. un 31.03.2026.
 
 **Svarīgi:** neviens valdes loceklis nevar pārstāvēt biedrību viens pats. Oficiāliem dokumentiem, līgumiem un iesniegumiem iestādēm nepieciešami **vismaz 2 valdes locekļu** paraksti.
 
