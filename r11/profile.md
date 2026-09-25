@@ -1,6 +1,6 @@
 # Biedrība "Riekstu 11" — profils
 
-> Avots: Uzņēmumu reģistra lēmums Nr. 6-24/66193 (29.05.2019.) par biedrības ierakstīšanu biedrību un nodibinājumu reģistrā. Dati atbilst stāvoklim uz 29.05.2019. — izmaiņas valdes sastāvā vai adresē pēc šī datuma šeit nav atspoguļotas.
+> Avots: Uzņēmumu reģistra lēmums Nr. 6-24/66193 (29.05.2019.) par biedrības ierakstīšanu biedrību un nodibinājumu reģistrā; valdes sastāvs atjaunināts pēc protokoliem (`protokoli/`).
 
 ## Pamatdati
 
@@ -16,6 +16,7 @@
 | Dibināšanas lēmuma datums | 08.05.2019. |
 | Reģistrācijas datums | 29.05.2019. |
 | Patiesā labuma guvējs | Reģistrēts paziņojums, ka noskaidrot nav iespējams |
+| Oficiālais saziņas kanāls ar biedriem | Vēstkopa `riekstu-nams@googlegroups.com` (sk. `statutes.md`) |
 
 ## Darbības mērķis
 
@@ -29,11 +30,17 @@ Visas darbības tiek veiktas atbilstoši normatīvajiem aktiem, dzīvokļu īpa�
 
 ## Valde (izpildinstitūcija)
 
-| Valdes loceklis | Pārstāvības tiesības |
-|---|---|
-| Kristīne Bērziņa | Kopīgi ar vismaz 1 citu valdes locekli |
-| Mārtiņš Kandevics | Kopīgi ar vismaz 1 citu valdes locekli |
-| Vladimirs Voskoboiņikovs | Kopīgi ar vismaz 1 citu valdes locekli |
+Valdes pilnvaru termiņš saskaņā ar statūtiem: 3 gadi.
+
+**Pašreizējā valde** (ievēlēta biedru kopsapulcē 31.03.2026.; sk. `protokoli/2026-03-31_kopsapulce.md`):
+
+| Valdes loceklis | Dzīvoklis | Pārstāvības tiesības |
+|---|---|---|
+| Mārtiņš Engelharts (iepriekš Kandevics) | 7 | Kopīgi ar vismaz 1 citu valdes locekli |
+| Vladimirs Voskoboiņikovs | 4 | Kopīgi ar vismaz 1 citu valdes locekli |
+| Laura Boltāne | 10 | Kopīgi ar vismaz 1 citu valdes locekli |
+
+Valdes vēsture: 2019 — Kristīne Bērziņa, Mārtiņš Kandevics (Engelharts), Vladimirs Voskoboiņikovs; 07.06.2022. Kristīnes Bērziņas vietā ievēlēta Laura Boltāne (amatā kopš 23.08.2022.); pārvēlēta 16.04.2024. un 31.03.2026.
 
 **Svarīgi:** neviens valdes loceklis nevar pārstāvēt biedrību viens pats. Oficiāliem dokumentiem, līgumiem un iesniegumiem iestādēm nepieciešami **vismaz 2 valdes locekļu** paraksti.
 
